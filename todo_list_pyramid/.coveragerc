@@ -1,0 +1,3 @@
+[run]
+source = todo_list_pyramid
+omit = todo_list_pyramid/test*
